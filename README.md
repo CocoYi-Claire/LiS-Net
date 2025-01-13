@@ -20,3 +20,4 @@ This work uses the EventScape dataset which can be downloaded here:
 ## Our-collected Dataset
 * [h5 data for E2E validation (3.2 Gb)](https://drive.google.com/drive/folders/1P3GckCajeyxhczSDOWTOwnyCqb9MURMA?usp=drive_link)
 
+* [original data (6.6 Gb)](https://drive.google.com/drive/folders/1vWsLN6WxOup-huPDRvMFoNlq52HmUHRA?usp=drive_link)
