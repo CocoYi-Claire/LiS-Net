@@ -2,7 +2,10 @@
 
 # LiS-Net
 
-## LiS-Net A Brain Inspired Framework for Event Based End-to-End Steering Prediction
+This is the code for the paper **LiS-Net A Brain Inspired Framework for Event Based End-to-End Steering Prediction**
+
+## Getting Started
+### Prerequisites
 
 ## EventScape Dataset
 
